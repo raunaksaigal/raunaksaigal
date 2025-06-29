@@ -8,6 +8,8 @@
 
 ---
 
+![Snake animation](https://github.com/raunaksaigal/raunaksaigal/blob/output/github-contribution-grid-snake.svg)
+
 ### 👨‍💻 Technical Background
 
 I'm a final-year B.Tech student majoring in AI and ML, with a strong focus on **backend engineering**. I enjoy building **real-time, scalable systems** and working across the full stack when needed. My toolkit includes:
