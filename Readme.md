@@ -1,5 +1,54 @@
-# 💫 About Me:
-# 👋 Hi there! I'm Raunak Saigal<br><br>🎓 B.Tech in Artificial Intelligence & Machine Learning  <br>🏫 Netaji Subhash Engineering College  <br>💻 Backend Developer | AI Explorer | Cloud Enthusiast  <br>🐧 I use Arch btw ;)<br><br>---<br><br>### 👨‍💻 About Me<br><br>I'm a final-year B.Tech student majoring in AI and ML, with a strong focus on **backend engineering**. I enjoy building **real-time, scalable systems** and working across the full stack when needed. My toolkit includes:<br><br>- **Backend & APIs**: NestJS, Django, Django REST Framework  <br>- **Databases**: PostgreSQL, SQLite  <br>- **Real-time Communication**: WebSockets, Socket.IO  <br>- **AI & ML**: PyTorch, LLMs, NLP, Autonomous Agents, Medical Image Processing<br><br>I love solving complex problems where **intelligent systems meet practical deployment**—from healthcare applications to agentic AI workflows.<br><br>---<br><br>### 🌐 What I'm Exploring<br><br>- Google Cloud Platform (GCP)  <br>- Large Language Models (LLMs) & autonomous reasoning  <br>- Cloud-native ML and backend systems  <br>- Realtime AI-powered apps  <br>- Open-source contributions and dev communities<br><br>---<br><br>### 📫 Let's Connect!<br><br>I’m always open to new ideas, mentorship, and collaboration. Feel free to reach out:<br><br>- 🔗 [LinkedIn](https://www.linkedin.com/in/raunaksaigal/)  <br>- 🌐 [Portfolio](https://raunaksaigal.github.io/)  <br><br>---<br><br>### 🧠 Motto<br><br>> Build systems that are not just smart, but useful.  <br>> Learn constantly, build consistently, and give back when you can.  <br>> Also, I use Arch btw.<br><br>---<br><br>Thanks for stopping by! 👋<br>
+# 💫 About Me
+
+👋 Hi there! I'm **Raunak Saigal**  
+🎓 B.Tech in Artificial Intelligence & Machine Learning  
+🏫 Netaji Subhash Engineering College  
+💻 Backend Developer | AI Explorer | Cloud Enthusiast  
+🐧 I use Arch btw ;)
+
+---
+
+### 👨‍💻 Technical Background
+
+I'm a final-year B.Tech student majoring in AI and ML, with a strong focus on **backend engineering**. I enjoy building **real-time, scalable systems** and working across the full stack when needed. My toolkit includes:
+
+- **Backend & APIs**: NestJS, Django, Django REST Framework  
+- **Databases**: PostgreSQL, SQLite  
+- **Real-time Communication**: WebSockets, Socket.IO  
+- **AI & ML**: PyTorch, LLMs, NLP, Autonomous Agents, Medical Image Processing
+
+I love solving complex problems where **intelligent systems meet practical deployment**—from healthcare applications to agentic AI workflows.
+
+---
+
+### 🌐 What I'm Exploring
+
+- Google Cloud Platform (GCP)  
+- Large Language Models (LLMs) & autonomous reasoning  
+- Cloud-native ML and backend systems  
+- Real-time AI-powered applications  
+- Open-source contributions and dev communities
+
+---
+
+### 📫 Let's Connect!
+
+I’m always open to new ideas, mentorship, and collaboration. Feel free to reach out:
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/raunaksaigal/)  
+- 🌐 [Portfolio](https://raunaksaigal.github.io/)  
+
+---
+
+### 🧠 Motto
+
+> Build systems that are not just smart, but useful.  
+> Learn constantly, build consistently, and give back when you can.  
+> Also, I use Arch btw.
+
+---
+
+Thanks for stopping by! 👋
 
 
 ## 🌐 Socials:
